@@ -1,1 +1,1 @@
-<?php echo "on Git"; ?>
+<?php echo "on Github"; ?>
