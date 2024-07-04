@@ -1,1 +1,1 @@
-<?php echo "Git Hub"; ?>
+<?php echo "Git Hub - SEED Interns"; ?>
